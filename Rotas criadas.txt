@@ -1,0 +1,6 @@
+Rota para buscar todos os cursos
+localhost:8080/api/cursos
+Rota para buscar todas as grades
+localhost:8080/api/grade/grade_curso
+Rota para buscar grade por id
+localhost:8080/api/grade/grade_curso/1
